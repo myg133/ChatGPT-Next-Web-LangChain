@@ -372,6 +372,7 @@ export const internalAllowedWebDavEndpoints = [
   "https://dav.idrivesync.com",
   "https://webdav.yandex.com",
   "https://app.koofr.net/dav/Koofr",
+  "http://ddns.ttmic.xyz:18080/dav",
 ];
 
 export const MYFILES_BROWSER_TOOLS_SYSTEM_PROMPT = `
